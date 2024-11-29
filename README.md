@@ -30,26 +30,26 @@
 
 ## 推荐的 ChatGPT镜像网站：
 
-1. **一下AI (https://www.yixiaai.com)**  
+1. **一下AI ([www.yixiaai.com](https://www.yixiaai.com/))**  
    上线快两年了，支持GPT-4、4o、4o mini以及o1，提供AI绘画功能。用户可以通过简单扫码快速开始使用。
 
-2. **AI智慧岛 (https://chat.lify.vip)**  
+2. **AI智慧岛 ([chat.lify.vip](https://chat.lify.vip/))**  
    已运营近两年，支持GPT-4、4o以及o1，提供AI文件、AI PPT、AI助手、AI插件功能和思维导图，非常适合多功能需求的用户。
 
-3. **AI智绘 (https://guide1.lanjing.ai)**  
+3. **AI智绘 ([guide1.lanjing.ai](https://guide1.lanjing.ai/))**  
    运营一年多，支持GPT-4、4o，并支持AI绘画功能（包括Midjourney和Dall·E），适合创意工作者。
 
-4. **小鱼GPT (https://ai.lansejingyu.com)**  
+4. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
    提供简单便捷的ChatGPT-4镜像，支持GPT-4、4o，适合需要快速访问的用户。
 
-5. **蓝鲸AI (https://lanjing.ai)**  
+5. **蓝鲸AI ([lanjing.ai](https://lanjing.ai/))**  
    免费提供ChatGPT服务，支持GPT-4、4o，为用户提供多样化的使用体验。
 
 ---
 
 ## 国内免费使用指南
 
-1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI (www.yixiaai.com)** 或**AI智慧岛 (https://chat.lify.vip)** 。
+1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI ([www.yixiaai.com](https://www.yixiaai.com/))** 或**AI智慧岛 ([chat.lify.vip](https://chat.lify.vip/))** 。
 
 2. **注册或使用**：无需注册，按照提示用微信扫码即可。
 
