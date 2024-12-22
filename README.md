@@ -1,4 +1,4 @@
-# 国内免费 ChatGPT 镜像网站推荐：支持 GPT-4 和 4o，无需翻墙 【12月持续更新】
+# 国内免费 ChatGPT 镜像网站推荐：支持 GPT-4 和 4o 【12月持续更新】
 
 > Author: chinese-chatgpt  &emsp;&emsp;  Update: 2024/12/22
 
