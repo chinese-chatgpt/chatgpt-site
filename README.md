@@ -1,7 +1,7 @@
 # 国内免费 ChatGPT 镜像网站推荐：支持 GPT-4 和 4o 【2月持续更新】
 
 > Author: chinese-chatgpt   
-> Update: 2025/02/01
+> Update: 2025/02/02
 
 如何在国内使用ChatGPT？如果想使用ChatGPT，我们为您整理了最新国内可用的 **ChatGPT 镜像网站**资源。 
 
