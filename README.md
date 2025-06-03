@@ -1,7 +1,7 @@
-# 国内免费 ChatGPT 镜像网站推荐：支持 GPT-4 和 4o 【5月持续更新】
+# 国内免费 ChatGPT 镜像网站推荐：支持 GPT-4 和 4o 【6月持续更新】
 
 > 作者: chinese-chatgpt   
-> 更新：2025/05/10   
+> 更新：2025/06/05   
 
 如何在国内使用ChatGPT？如果想使用ChatGPT，我们为您整理了最新国内可用的 **ChatGPT 镜像网站**资源。 
 
@@ -31,26 +31,26 @@
 
 ## 推荐的 ChatGPT镜像网站：
 
-1. **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))**  
+1. **一下AI ([chat.yixiaai.com](https://chat.lanjing.pro/))**  
    上线快两年了，支持GPT-4、4o、4o mini以及o1，提供AI绘画功能。用户可以通过简单扫码快速开始使用。
 
-2. **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))**  
+2. **AI智慧岛 ([chat.lify.vip](https://xsimplechat.com/))**  
    已运营近两年，支持GPT-4、4o以及o1，提供AI文件、AI PPT、AI助手、AI插件功能和思维导图，非常适合多功能需求的用户。
 
-3. **AI智绘 ([guide1.lanjing.ai](https://guide1.lanjing.ai/))**  
+3. **AI智绘 ([chat.lanjingai.org](https://chat.lanjingai.org/))**  
    运营一年多，支持GPT-4、4o，并支持AI绘画功能（包括Midjourney和Dall·E），适合创意工作者。
 
 4. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
    提供简单便捷的ChatGPT-4镜像，支持GPT-4、4o，适合需要快速访问的用户。
 
-5. **蓝鲸AI ([lanjing.ai](https://lanjing.ai/))**  
+5. **蓝鲸AI ([lanjing.ai](https://lanjing.pro/))**  
    免费提供ChatGPT服务，支持GPT-4、4o，为用户提供多样化的使用体验。
 
 ---
 
 ## 国内免费使用指南
 
-1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))** 或**AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))** 。
+1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI ([chat.yixiaai.com](https://chat.lanjing.pro/))** 或**AI智慧岛 ([chat.lify.vip](https://xsimplechat.com/))** 。
 
 2. **注册或使用**：无需注册，按照提示用微信扫码即可。
 
