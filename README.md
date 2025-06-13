@@ -1,7 +1,7 @@
 # 国内免费 ChatGPT 镜像网站推荐：支持 GPT-4 和 4o 【6月持续更新】
 
 > 作者: chinese-chatgpt   
-> 更新：2025/06/05   
+> 更新：2025/06/14   
 
 如何在国内使用ChatGPT？如果想使用ChatGPT，我们为您整理了最新国内可用的 **ChatGPT 镜像网站**资源。 
 
@@ -11,7 +11,7 @@
 
 ## 为什么选择使用 ChatGPT镜像网站？
 
-**ChatGPT镜像网站**是专为国内用户开发的中文版平台，提供了一种**无需翻墙**即可使用ChatGPT的便捷方式。
+[**ChatGPT镜像网站**](https://chat.lanjingai.org) 是专为国内用户开发的中文版平台，提供了一种**无需翻墙**即可使用ChatGPT的便捷方式。
 
 它的好处主要有：
 
@@ -31,7 +31,7 @@
 
 ## 推荐的 ChatGPT镜像网站：
 
-1. **一下AI ([chat.yixiaai.com](https://chat.lanjing.pro/))**  
+1. **一下AI ([chat.yixiaai.com](https://chat.lanjingai.org/))**  
    上线快两年了，支持GPT-4、4o、4o mini以及o1，提供AI绘画功能。用户可以通过简单扫码快速开始使用。
 
 2. **AI智慧岛 ([chat.lify.vip](https://xsimplechat.com/))**  
@@ -50,7 +50,7 @@
 
 ## 国内免费使用指南
 
-1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI ([chat.yixiaai.com](https://chat.lanjing.pro/))** 或**AI智慧岛 ([chat.lify.vip](https://xsimplechat.com/))** 。
+1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI ([chat.yixiaai.com](https://chat.lanjingai.org/))** 或**AI智慧岛 ([chat.lify.vip](https://xsimplechat.com/))** 。
 
 2. **注册或使用**：无需注册，按照提示用微信扫码即可。
 
