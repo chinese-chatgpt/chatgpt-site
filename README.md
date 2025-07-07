@@ -1,7 +1,7 @@
 # 国内免费 ChatGPT 镜像网站推荐：支持 GPT-4 和 4o 【7月持续更新】
 
 > 作者: chinese-chatgpt   
-> 更新：2025/07/02   
+> 更新：2025/07/08   
 
 如何在国内使用ChatGPT？如果想使用ChatGPT，我们为您整理了最新国内可用的 **ChatGPT 镜像网站**资源。 
 
@@ -37,7 +37,7 @@
 2. **AI智慧岛 ([chat.lify.vip](https://xsimplechat.com/))**  
    已运营近两年，支持GPT-4、4o以及o1，提供AI文件、AI PPT、AI助手、AI插件功能和思维导图，非常适合多功能需求的用户。
 
-3. **AI智绘 ([chat.lanjingai.org](https://chat.lanjingai.org/))**  
+3. **AI智绘 ([gpt.lanjing.pro](https://gpt.lanjing.pro/))**  
    运营一年多，支持GPT-4、4o，并支持AI绘画功能（包括Midjourney和Dall·E），适合创意工作者。
 
 4. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
